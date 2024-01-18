@@ -1,5 +1,5 @@
 # 💫 About Me:
-✨ I am pursuing a double major in Psychology and Software Engineering at McGill University <br><br>🖥️ I am currently working on completing the Odin Project<br><br>🚀 My life goal is to become a modern day Renaissance woman - I want to learn anything and everything<br><br>🌈 When I am not coding, you will find me playing golf, sewing, thrifting, playing piano... or working on my latest hobby!<br><br>📍Located in Montreal, Canada
+✨ I am pursuing a double major in Psychology and Software Engineering at McGill University <br><br>🖥️ I am currently working on becoming a better coder<br><br>🚀 My life goal is to become a modern day Renaissance woman - I want to learn anything and everything<br><br>🌈 When I am not coding, you will find me playing golf, sewing, thrifting, playing piano... or working on my latest hobby!<br><br>📍Located in Montreal, Canada
 
 
 ## 🌐 Socials:
